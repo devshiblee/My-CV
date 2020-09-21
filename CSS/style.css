@@ -1,0 +1,120 @@
+/*******************Tag Section**************/
+body{
+
+  color: #1a1c20;
+  margin: 0;
+  text-align: center;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 150%;
+}
+h1{
+  color: #00005c;
+  font-size: 2.625rem;
+  margin-top: 0;
+  width: 20%;
+  margin: 50px auto 0 auto;
+  font-family: 'Pacifico', cursive;
+}
+h2{
+  color: #005086;
+  font-size: 2.625rem;
+  font-family: 'Permanent Marker', cursive;
+  font-weight: normal;
+  padding: 10px;
+}
+h3{
+  color: #005086;
+}
+
+hr{
+border: dotted 6px;
+border-bottom: None;
+width: 4%;
+margin: 100px auto;
+}
+
+.intro{
+  width: 30%;
+  margin: auto;
+}
+
+.top-containter{
+  background-color: #2ec1ac;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container{
+  margin: 100px 0;
+
+
+}
+
+.bottom-containter{
+  background-color: #2ec1ac;
+
+}
+
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+.bottom-cloud{
+  position:absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.skill-row{
+  width: 70%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+
+.code-image{
+  border-radius: 50%;
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.chillies-image{
+  border-radius: 50%;
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.contact-massage{
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+
+.myButton {
+	-moz-box-shadow: 0 0 0 0 #9fb4f2;
+	-webkit-box-shadow: 0 0 0 0 #9fb4f2;
+	box-shadow: 0 0 0 0 #9fb4f2;
+	background-color:#083178;
+	-webkit-border-radius:29px;
+	-moz-border-radius:29px;
+	border-radius:29px;
+	border:2px solid #4e6096;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family: 'Josefin Sans', sans-serif;
+	font-size:20px;
+	font-weight:bold;
+	padding:17px 28px;
+	text-decoration:none;
+	text-shadow:0 1px 0 #283966;
+}
+.myButton:hover {
+	background-color:#476e9e;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
